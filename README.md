@@ -1,6 +1,6 @@
 # YouBet
 
-Bet against yourself on task completeion, pay fimes if you fail.
+Bet against yourself on task completion, pay fines if you fail. MVP
 MVP
 
 ----
