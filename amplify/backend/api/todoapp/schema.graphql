@@ -1,0 +1,13 @@
+type User @model {
+	id: ID!
+	name: String!
+	tasks: [Task] @connection
+}
+
+type Task @model {
+	id: ID!
+	text: String!
+	expirationTime: AWSTimestamp!
+	price: Int!
+	complete: Boolean!
+}

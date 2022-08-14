@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "trust-yourself-todo-dev-20190914095616-authRole",
+            "UnauthRoleArn": "arn:aws:iam::328945078495:role/trust-yourself-todo-dev-20190914095616-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::328945078495:role/trust-yourself-todo-dev-20190914095616-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "trust-yourself-todo-dev-20190914095616-deployment",
+            "UnauthRoleName": "trust-yourself-todo-dev-20190914095616-unauthRole",
+            "StackName": "trust-yourself-todo-dev-20190914095616",
+            "StackId": "arn:aws:cloudformation:us-east-2:328945078495:stack/trust-yourself-todo-dev-20190914095616/75d14270-d68a-11e9-bb24-0a888d4075c6"
+        },
+        "categories": {
+            "auth": {
+                "trustyourselftodod6039779": {}
+            }
+        }
+    }
+}
